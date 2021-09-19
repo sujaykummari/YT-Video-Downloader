@@ -3,7 +3,7 @@ from pytube import YouTube
 from tkinter import messagebox
 
 root = Tk()
-root.geometry('500x200')
+root.geometry('500x300')
 root.resizable(0,0)
 root.title("youtube video downloader")
 root.resizable(width=False, height=False)
