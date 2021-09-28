@@ -7,4 +7,4 @@ A simple tkinter application for downloading Youtube videos.
 
 
 Once we run the code, we just have to copy the link and paste in given box and the video will be saved in the same file as the code. 
-To check if its done the button colour changes back to red once its done.
+
